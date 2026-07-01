@@ -1,4 +1,4 @@
-# ¡Hola! Soy Ricardo Godoy 
+# ¡Hola! Soy Ricardo
 
 Estudiante de Ingeniería en Sistemas y Computación orientado al desarrollo de software mediante el análisis lógico, el diseño de estructuras de datos y la descomposición precisa de sistemas. Me apasiona resolver problemas complejos, optimizar la persistencia de datos y construir código consistente, limpio y escalable.
 
