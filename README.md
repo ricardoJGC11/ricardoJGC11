@@ -31,7 +31,7 @@ Bases de Datos
 
 Herramientas
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,maven" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,maven" /> </p>
 
 ### Actualmente aprendiendo
 
