@@ -1,6 +1,10 @@
-# Hola, soy Ricardo
+## Sobre mí
 
-Soy estudiante de **Ingeniería en Sistemas y Computación** y disfruto convertir ideas en aplicaciones funcionales. Me interesa el desarrollo **Full Stack**, el diseño de **APIs**, la gestión de bases de datos y la construcción de software con una arquitectura limpia, mantenible y escalable.
+Estudiante de Ingeniería en Sistemas y Computación.
+
+Actualmente desarrollo aplicaciones web y APIs, disfrutando especialmente el backend, las bases de datos y el diseño de software.
+
+**Tecnologías principales:** Java, Python (FastAPI), C#, JavaScript, PostgreSQL y MySQL.
 
 ---
 
