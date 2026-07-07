@@ -39,7 +39,7 @@ Herramientas
   <a href="https://www.linkedin.com/in/ricardo-javier-godoy-castro-21a8892ba/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="ricardo.godoy.7575@gmail.com">
+  <a href="mailto:ricardo.godoy.7575@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
