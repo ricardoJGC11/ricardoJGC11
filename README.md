@@ -2,8 +2,6 @@
 
 Soy estudiante de **Ingeniería en Sistemas y Computación** y disfruto convertir ideas en aplicaciones funcionales. Me interesa el desarrollo **Full Stack**, el diseño de **APIs**, la gestión de bases de datos y la construcción de software con una arquitectura limpia, mantenible y escalable.
 
-Siempre estoy aprendiendo nuevas tecnologías y buscando mejorar mi forma de desarrollar, priorizando buenas prácticas, código organizado y soluciones que aporten valor.
-
 ---
 
 ## Proyectos Destacados
@@ -19,8 +17,22 @@ Sistema de comercio electrónico desarrollado con **Python**, **FastAPI**, **Pos
 ---
 
 Tecnologías y Herramientas
+Lenguajes
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,cs,js,fastapi,react,angular,postgres,mysql,mongodb,git,github,vscode&perline=6" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,cs,js" /> </p>
+
+Frameworks y Librerías
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=fastapi,react,angular,vite" /> </p>
+
+Bases de Datos
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> </p>
+
+Herramientas
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,maven" /> </p>
+
 ### Actualmente aprendiendo
 
 * Arquitectura de Software
@@ -31,6 +43,3 @@ Tecnologías y Herramientas
 
 ---
 
-## Objetivo
-
-Seguir creciendo como desarrollador de software participando en proyectos que me permitan aprender, enfrentar nuevos retos y crear aplicaciones útiles, escalables y bien estructuradas.
