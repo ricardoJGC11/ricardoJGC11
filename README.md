@@ -33,13 +33,15 @@ Herramientas
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,maven" /> </p>
 
-### Actualmente aprendiendo
+## Contacto
 
-* Arquitectura de Software
-* Diseño de APIs REST
-* React
-* Buenas prácticas de desarrollo
-* Patrones de diseño
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/ricardo-javier-godoy-castro-21a8892ba/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="ricardo.godoy.7575@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 ---
 
