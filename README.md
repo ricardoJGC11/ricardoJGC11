@@ -18,29 +18,9 @@ Sistema de comercio electrónico desarrollado con **Python**, **FastAPI**, **Pos
 
 ---
 
-## Tecnologías y Herramientas
+Tecnologías y Herramientas
 
-### Lenguajes
-
-* Python
-* Java
-* C#
-* JavaScript
-
-### Frameworks y Librerías
-
-* FastAPI
-* React + Vite
-* Angular
-* SQLAlchemy
-
-### Bases de Datos
-
-* PostgreSQL
-* MySQL
-* SQL Server
-* MongoDB
-
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,cs,js,fastapi,react,angular,postgres,mysql,mongodb,git,github,vscode&perline=6" /> </p>
 ### Actualmente aprendiendo
 
 * Arquitectura de Software
